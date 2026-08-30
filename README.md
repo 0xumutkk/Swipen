@@ -16,13 +16,6 @@ Scroll. Read the odds. Take the trade. All onchain, all on Base.
 ![wagmi](https://img.shields.io/badge/wagmi%20%2B%20viem-1C1B1F?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-<br />
-
-![Realtime](https://img.shields.io/badge/⚡_Realtime-SSE_stream-FF6B6B?style=flat-square)
-![Auth](https://img.shields.io/badge/🔐_Auth-SIWE_sessions-8B5CF6?style=flat-square)
-![Markets](https://img.shields.io/badge/📈_Markets-Limitless_API-10B981?style=flat-square)
-![Status](https://img.shields.io/badge/🚧_Status-Active_development-F59E0B?style=flat-square)
-
 </div>
 
 ---
